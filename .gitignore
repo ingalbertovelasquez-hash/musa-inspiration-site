@@ -1,0 +1,6 @@
+# Archivos fuente del logo (pesados) — no se suben, solo los derivados
+# optimizados que sí usa index.html.
+assets/Logo inicial.png
+assets/logo_full.png
+assets/logo_icon.png
+.DS_Store
